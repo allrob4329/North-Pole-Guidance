@@ -1,0 +1,38 @@
+@charset "utf-8";
+.banner {
+	background-color: #FD0101;
+	padding-left: 50px;
+	left: 6px;
+	width: 1400px;
+	height: 150px;
+}
+.banner2 {
+	width: 1300px;
+	height: 100px;
+	margin-top: 17px;
+	background-color: #93C47D;
+	margin-left: 6px;
+}
+a {
+	font-family: merriweather;
+	font-style: normal;
+	font-weight: 300;
+	color: #000000;
+}
+#nav {
+	background-color: #28983F;
+}
+
+
+
+h1 {
+	text-align: center;
+	color: #000000;
+	font-family: merriweather;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 50px;
+}
+#sub {
+	background-color: #018E0D;
+}
